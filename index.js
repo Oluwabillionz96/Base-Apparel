@@ -4,7 +4,7 @@ const error = document.querySelector('.error-i');
 const errorMessage = document.getElementById('error');
 const inputBorder = document.querySelector('.input-wrapper');
 const input = document.querySelector('.maill'); 
-console.log(input);
+// console.log(input);
 
 // Adding Event listeners and verifying
 
